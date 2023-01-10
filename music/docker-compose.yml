@@ -1,0 +1,23 @@
+version: "3.9"
+services:
+  mongodbservices:
+    image: mongo:latest
+    container_name: mongo-track-container
+    networks:
+      - springCloud-track-net
+    ports:
+      - "27017:27107"
+  track-services:
+    container_name: track-services
+    build: ./
+    networks:
+      - springCloud-track-net
+    ports:
+      - "65100:65100"
+    depends_on:
+      - mongodbservices
+    restart: always
+
+networks:
+  springCloud-track-net:
+    driver: bridge

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="50cc27c6-0785-4640-9e74-94168b0b48e4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/music/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/src/main/java/com/example/music/controller/TrackConroller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/src/main/java/com/example/music/domain/Artist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/src/main/java/com/example/music/domain/Track.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/src/main/java/com/example/music/exception/CustomerAlreadyExistException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/src/main/java/com/example/music/exception/CustomerNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/src/main/java/com/example/music/filter/JwtFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/src/main/java/com/example/music/repository/TrackRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/src/main/java/com/example/music/service/ITrackService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music/src/main/java/com/example/music/service/TrackServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2K5FZWbea4fx3HfOy1n8RLCbLTL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/NIIT Backend C12-15/COURSE14/Sprint3/bej_c3_s3_containerize_using_docker_compose_mc_1/music"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\NIIT Backend C12-15\COURSE14\Sprint3\bej_c3_s3_containerize_using_docker_compose_mc_1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="bej_c3_s3_containerize_using_docker_compose_mc_1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="bej_c3_s3_containerize_using_docker_compose_mc_1" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50cc27c6-0785-4640-9e74-94168b0b48e4" name="Changes" comment="" />
+      <created>1673256593276</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673256593276</updated>
+    </task>
+    <servers />
+  </component>
+</project>
